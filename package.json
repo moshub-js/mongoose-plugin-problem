@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mongoose": "^7.0.5",
+    "mongoose-beautiful-unique-validation": "^7.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+}
